@@ -1,0 +1,7 @@
+php artisan migrate
+php artisan make:controller API/BaseController
+php artisan make:controller API/RegisterController
+php artisan make:model Product -m
+php artisan make:controller API/ProductController
+php artisan make:resource ProductResource
+php artisan storage:link
