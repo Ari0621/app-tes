@@ -9,4 +9,4 @@ php artisan migrate
 <br>php artisan make:resource ProductResource
 <br>php artisan storage:link
 
-<brphp artisan install:api (laravel 11)
+<br>php artisan install:api (laravel 11)
